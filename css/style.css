@@ -1,0 +1,22 @@
+html{
+	font-size: 62.5%;		/**reset para REMS **/
+	box-sizing: border-box;
+}
+
+*, *:before, *:after{
+	box-sizing: inherit;
+}
+
+body{
+	font-family:;
+	line-height: 2;
+	font-size:1.6rem;
+	background: #141414;
+}
+
+ /*Globales*/
+
+ .container{
+	max-width: 120rem;
+	margin: 0 auto 0 auto; 
+}
